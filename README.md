@@ -5,11 +5,9 @@ For more information, please check Tuya Developer Website.
 
 
 一、方案标题
-===
 
   猫咪投喂器 Carfeeder
-  ----
-  
+
 二、方案应用场景
 
   地点：养猫的家居室内；
@@ -19,8 +17,9 @@ For more information, please check Tuya Developer Website.
   3、远程投喂功能；
   4、食物储量统计和食物不足推送提醒功能；
   5、宠物训练功能，按键自动投喂；
+  
 三、开发计划
-===
+
   1）3月15前准备物料；
   
   2）3月16日完成云平台的产品建立、本地开发环境的搭建；
